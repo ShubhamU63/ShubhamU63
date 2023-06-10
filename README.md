@@ -1,10 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shubham Uchagaonkar
 ===========================================================================================================================================
 
-I am a Data Scientist ,Software Dev,Devops Consultant
+I am a Data Scientist ,Software Dev,Devops Engineer Consultant
 ---------------------------------------
 
-I am a highly motivated professional with experience in a diverse range of fields, including HTML, CSS, JavaScript, data science, data analytics, Python, graphic design, GIS, and photogrammetry. My passion lies in leveraging my skills to deliver outstanding results that meet and exceed my clients' expectations. My technical expertise in HTML, CSS, and JavaScript has enabled me to develop visually appealing and responsive websites that deliver exceptional user experiences. I have also used my data science and data analytics skills to extract insights and drive informed decision-making for organizations. Additionally, my proficiency in Python has allowed me to create custom scripts that automate tasks and optimize workflows. As a graphic designer, I am adept at creating captivating designs that communicate brand messages effectively. I have also used GIS and photogrammetry tools to create maps and models. In my career, I have worked with numerous clients and organizations, delivering high-quality projects within stipulated timelines. I am a firm believer in teamwork and open communication, and I always strive to collaborate effectively with my colleagues and clients to ensure that we achieve our goals. If you are looking for a professional who is highly skilled in HTML, CSS, JavaScript, data science, data analytics, Python, graphic design, GIS, and photogrammetry, then look no further. Please feel free to connect with me to discuss how we can work together to deliver outstanding results.
+I am a highly motivated professional with experience in a diverse range of fields, including HTML, CSS, JavaScript, data science, data analytics, Python, graphic design, GIS, photogrammetry,Git,and Devops.
+- My passion lies in leveraging my skills to deliver outstanding results that meet and exceed my clients' expectations. 
+- My technical expertise in HTML, CSS, and JavaScript has enabled me to develop visually appealing and responsive websites that deliver exceptional user experiences. 
+- I have also used my data science and data analytics skills to extract insights and drive informed decision-making for organizations.
+- Additionally, my proficiency in Python has allowed me to create custom scripts that automate tasks and optimize workflows. 
+- As a graphic designer, I am adept at creating captivating designs that communicate brand messages effectively. 
+- I have also used GIS and photogrammetry tools to create maps and models. 
+- In my career, I have worked with numerous clients and organizations, delivering high-quality projects within stipulated timelines. I am a firm believer in teamwork and open communication, and I always strive to collaborate effectively with my colleagues and clients to ensure that we achieve our goals. 
+- If you are looking for a professional who is highly skilled in HTML, CSS, JavaScript, data science, data analytics, Python, graphic design, GIS, and photogrammetry,Git,and Devops then look no further. Please feel free to connect with me to discuss how we can work together to deliver outstanding results.
 
 * 🌍  I'm based in Karnataka,India
 * ✉️  You can contact me at [Shubhamuchagaonkar@gmail.com](mailto:Shubhamuchagaonkar@gmail.com)
