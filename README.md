@@ -1,7 +1,7 @@
 Hi My name is Shubham Uchagaonkar
 ===========================================================================================================================================
 
-I am a Data Scientist ,Software Dev,Devops Engineer Consultant
+I am a Data Scientist,Data Engineer Consultant
 ---------------------------------------
 
 I am a highly motivated professional with experience in a diverse range of fields, including HTML, CSS, JavaScript, data science, data analytics, Python, graphic design, GIS, photogrammetry,Git,and Devops.
